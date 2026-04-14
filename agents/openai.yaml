@@ -1,0 +1,4 @@
+interface:
+  display_name: "T+ API Docs"
+  short_description: "Fetch and resolve Chanjet T+ API docs"
+  default_prompt: "Use $tplus-api-docs to resolve a Chanjet T+ product or module directory at runtime and fetch the latest matching document content."
